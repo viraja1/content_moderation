@@ -1,0 +1,14 @@
+{
+  "name": "content-moderation",
+  "version": "0.0.1",
+  "description": "Smart contract for content moderation for decentralized forums",
+  "main": "index.js",
+  "scripts": {
+    "deploy-ropsten": "truffle migrate --network ropsten --reset"
+  },
+  "dependencies": {
+    "chainlink": "^0.7.5",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "webpack": "4.41.0"
+  }
+}
