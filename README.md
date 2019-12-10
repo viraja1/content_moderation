@@ -50,9 +50,9 @@ Uses NeutrinoAPI (bad-word-filter) from [Honeycomb API Marketplace](https://deve
    ```
     
 10) Go to the front-end project directory
-   ```
-   cd client
-   ```
+    ```
+    cd client
+    ```
     
 11) Install the dependencies for the front-end project
     ```
