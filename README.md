@@ -7,6 +7,9 @@ Uses NeutrinoAPI (bad-word-filter) from [Honeycomb API Marketplace](https://deve
 ## Screenshots
 ![](screenshots/content_moderation.png)
 
+## App URL
+https://viraja1.github.io/content_moderation/
+
 ## Getting Started
 
 1) Install [npm](https://www.npmjs.com/get-npm)
